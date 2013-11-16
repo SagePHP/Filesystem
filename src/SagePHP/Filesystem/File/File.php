@@ -1,6 +1,6 @@
 <?php
 
-namespace SagePHP\Filesytem\File;
+namespace SagePHP\Filesystem\File;
 
 class File extends \SPLFileInfo implements FileInterface
 {
