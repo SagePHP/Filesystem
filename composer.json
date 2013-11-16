@@ -1,0 +1,20 @@
+{
+    "name": "sagephp/filesystem",
+    "type": "library",
+    "description": "abstractions for common filesystem operations",
+    "keywords": ["sytem", "linux", "filesystem", "file", "folder"],
+    "homepage": "https://github.com/SagePHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nuno Costa",
+            "email": "nuno@francodacosta.com",
+            "homepage": "http://www.francodacosta.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "SagePHP": "src/"
+        }
+    }
+}
